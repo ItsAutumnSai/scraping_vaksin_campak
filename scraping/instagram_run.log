@@ -1,0 +1,120 @@
+[10:05:35] === INSTAGRAM SCRAPE START (2024-06 - 2026-06) ===
+[10:05:35] 32 tags queued, starting at 0 collected rows, target=4000
+[10:05:35] Warming up...
+[10:05:41] Session OK
+[10:05:41] [1/32] #campak target=125
+[10:06:26]   42 shortcodes found
+[10:07:15]     +10/125
+[10:08:01]     +20/125
+[10:08:54]     +30/125
+[10:09:17]   +35 from #campak | total=35/4000
+[10:09:22] [2/32] #vaksincampak target=128
+[10:10:08]   42 shortcodes found
+[10:11:04]     +10/128
+[10:11:53]     +20/128
+[10:12:48]   +29 from #vaksincampak | total=64/4000
+[10:12:57] [3/32] #vaksinmr target=132
+[10:13:43]   41 shortcodes found
+[10:15:06]     +10/132
+[10:16:12]     +20/132
+[10:16:45]   +23 from #vaksinmr | total=87/4000
+[10:16:55] [4/32] #vaksinrubella target=135
+[10:17:41]   41 shortcodes found
+[10:18:45]     +10/135
+[10:19:41]     +20/135
+[10:20:25]   +28 from #vaksinrubella | total=115/4000
+[10:20:32] [5/32] #imunisasicampak target=139
+[10:21:19]   42 shortcodes found
+[10:22:22]     +10/139
+[10:23:20]     +20/139
+[10:23:49]   +26 from #imunisasicampak | total=141/4000
+[10:23:55] [6/32] #campakrubella target=143
+[10:24:41]   41 shortcodes found
+[10:25:34]     +10/143
+[10:26:24]     +20/143
+[10:27:11]   +29 from #campakrubella | total=170/4000
+[10:27:16] [7/32] #antivaksin target=148
+[10:28:03]   40 shortcodes found
+[10:30:21]   +5 from #antivaksin | total=175/4000
+[10:30:28] [8/32] #efeksampingvaksin target=153
+[10:31:16]   41 shortcodes found
+[10:33:05]     +10/153
+[10:34:11]   +15 from #efeksampingvaksin | total=190/4000
+[10:34:18] [9/32] #imunisasianak target=159
+[10:35:04]   24 shortcodes found
+[10:36:20]   +9 from #imunisasianak | total=199/4000
+[10:36:26] [10/32] #vaksinasianak target=166
+[10:37:12]   41 shortcodes found
+[10:38:55]     +10/166
+[10:39:53]   +16 from #vaksinasianak | total=215/4000
+[10:39:59] [11/32] #kipi target=173
+[10:40:44]   42 shortcodes found
+[10:42:12]     +10/173
+[10:43:14]     +20/173
+[10:43:16]   +20 from #kipi | total=235/4000
+[10:43:22] [12/32] #pincampak target=180
+[10:44:08]   8 shortcodes found
+[10:44:29]   +0 from #pincampak | total=235/4000
+[10:44:35] [13/32] #imunisasidasar target=189
+[10:45:21]   42 shortcodes found
+[10:46:18]     +10/189
+[10:47:45]   +19 from #imunisasidasar | total=254/4000
+[10:47:50] [14/32] #imunisasilengkap target=198
+[10:48:38]   42 shortcodes found
+[10:49:28]     +10/198
+[10:50:35]   +16 from #imunisasilengkap | total=270/4000
+[10:50:43] [15/32] #imunisasirutin target=208
+[10:51:30]   41 shortcodes found
+[10:52:32]   +0 from #imunisasirutin | total=270/4000
+[10:52:42] [16/32] #imunisasikejar target=220
+[10:53:29]   41 shortcodes found
+[10:54:30]   +0 from #imunisasikejar | total=270/4000
+[10:54:40] [17/32] #kejarimunisasi target=234
+[10:55:27]   39 shortcodes found
+[10:56:27]   +0 from #kejarimunisasi | total=270/4000
+[10:56:33] [18/32] #imunisasinasional target=249
+[10:57:20]   40 shortcodes found
+[10:58:22]   +0 from #imunisasinasional | total=270/4000
+[10:58:32] [19/32] #vaksinasinasional target=267
+[10:59:18]   42 shortcodes found
+[11:00:23]   +0 from #vaksinasinasional | total=270/4000
+[11:00:29] [20/32] #imunisasibayi target=287
+[11:01:16]   40 shortcodes found
+[11:02:17]   +0 from #imunisasibayi | total=270/4000
+[11:02:25] [21/32] #vaksinbayi target=311
+[11:03:13]   41 shortcodes found
+[11:04:13]   +0 from #vaksinbayi | total=270/4000
+[11:04:21] [22/32] #imunisasibalita target=340
+[11:05:07]   40 shortcodes found
+[11:06:07]   +0 from #imunisasibalita | total=270/4000
+[11:06:14] [23/32] #vaksinbalita target=373
+[11:07:01]   42 shortcodes found
+[11:08:02]   +0 from #vaksinbalita | total=270/4000
+[11:08:11] [24/32] #bulanimunisasi target=415
+[11:08:59]   42 shortcodes found
+[11:10:02]   +0 from #bulanimunisasi | total=270/4000
+[11:10:10] [25/32] #bias target=467
+[11:10:57]   41 shortcodes found
+[11:12:01]   +0 from #bias | total=270/4000
+[11:12:09] [26/32] #cakupanimunisasi target=533
+[11:12:57]   22 shortcodes found
+[11:13:31]   +0 from #cakupanimunisasi | total=270/4000
+[11:13:38] [27/32] #idl target=622
+[11:14:26]   40 shortcodes found
+[11:15:29]   +0 from #idl | total=270/4000
+[11:15:38] [28/32] #measles target=746
+[11:16:23]   42 shortcodes found
+[11:17:29]   +0 from #measles | total=270/4000
+[11:17:37] [29/32] #rubella target=933
+[11:18:24]   42 shortcodes found
+[11:19:27]   +0 from #rubella | total=270/4000
+[11:19:33] [30/32] #mmr target=1244
+[11:20:20]   40 shortcodes found
+[11:21:20]   +0 from #mmr | total=270/4000
+[11:21:26] [31/32] #wabahcampak target=1865
+[11:22:13]   40 shortcodes found
+[11:23:10]   +0 from #wabahcampak | total=270/4000
+[11:23:17] [32/32] #kasuscampak target=3730
+[11:24:05]   42 shortcodes found
+[11:25:10]   +0 from #kasuscampak | total=270/4000
+[11:25:19] DONE: 1233 shortcodes seen -> /Users/sai/Documents/GitHub/scraping_vaksin_campak/scraping/out/instagram_vaccine_2024_2026.csv

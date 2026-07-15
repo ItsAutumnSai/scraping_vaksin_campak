@@ -1,0 +1,65 @@
+# 50 Indonesian mom/family/pediatric influencer Instagram accounts
+# Compiled via web research (listicle articles from haibunda.com, ibupedia.com,
+# theasianparent.com, ice.id, mooimom.id, motherandbeyond.id, slice.id, olenka.id)
+# for scraping "vaksin campak" (measles vaccine) discourse beyond hashtag pages.
+#
+# NOT yet individually verified live (Instagram was rate-limiting automated
+# requests from this session at compile time) — usernames may be outdated,
+# renamed, or the account may not actually cover vaccine topics specifically.
+# The influencer scraper should treat 404s/private accounts as expected
+# noise and skip them, not fail. Manually spot-check before relying on this
+# list for anything beyond scraping input.
+
+# --- Pediatricians / child-health focused (most likely to post about vaccines) ---
+citra_amelinda
+dr.lucky.sp.a
+metahanindita
+dr.diansulistya
+mizaafrizal
+drtiwi
+dimple.nagrani
+dryunianak
+dr.andreas.spa
+dokterapin
+momdoc.id
+happykids_id
+mestyariotedjo
+anakkuid
+frecillia
+amanpulungan
+yovitaananta
+dr.attiladewanti
+dr_aditya_spak
+ririvirzanputri
+drsylviairawati
+grace.melia
+
+# --- General mom/family/parenting influencers ---
+nikitawillyofficial
+dhannica
+parentingbyrey
+aninditapratiwi_
+mominfluencerid
+evisupriani17
+syaninditananda
+auliahani_fah
+syabantik
+fatmagahinsya
+putriizwilda
+dantifaramita
+lifanaclara
+puspamayasari_
+megamentarim
+ezyxyz
+bellatjahyadii
+ekamarlina_theosyah
+nidiyaoctavia
+merlitadesliani
+retnohening
+dheaninglukita
+alodita
+tya_ariestya
+cinfung
+reisabrotoasmoro
+olevelove
+ayudhyaghita
